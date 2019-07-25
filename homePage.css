@@ -1,0 +1,40 @@
+#header {
+  background-color: #31393C;
+  color: white;
+  margin-top: 0px;
+  top: 0px;
+  width: 100%;
+}
+
+a:nth-child(2) {
+	background-color: #FDCA40;
+}
+
+a {
+	background-color: #F79824;
+	margin: 0 auto;
+	font-size: 40px;
+}
+
+img {
+	position: relative;
+	width: 30%;
+	top: 20px;
+}
+
+a:link, a:visited {
+  color: white;
+  padding: 80px 150px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  background-color: white;
+  color: black;
+}
+
+body {
+	background-color: #2176FF;
+}

@@ -1,0 +1,67 @@
+#header {
+  background-color: #31393C;
+  color: white;
+  margin-top: 0px;
+  top: 0px;
+  width: 100%;
+}
+
+#contentList {
+  position: relative;
+  top: -37px;
+  background-color: #2176FF;
+  font-size: 30px;
+  padding-bottom: 80px;
+}
+
+#jellyfish {
+  position: relative;
+  top: -67px;
+  background-color: #33A1FD;
+}
+
+#mujaddara {
+  position: relative;
+  top: -87px;
+  background-color: #FDCA40;
+}
+
+#bob {
+  position: relative;
+  top: -106px;
+  background-color: #F79824;
+}
+
+#home {
+  background-color: #F79824;
+}
+
+body {
+  text-align: center;
+}
+
+li {
+  list-style-type: none;
+}
+
+p {
+  font-size: 20px;
+}
+
+li a {
+  display: block;
+  width: 200px;
+  padding: 8px;
+  float: left;
+  background-color: #F9F1F1
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+li a:hover {
+  background-color: #555;
+  color: white;
+}
